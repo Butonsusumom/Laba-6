@@ -143,4 +143,4 @@ var Arr:TMas;
    Output(Arr);
    Readln;
   END.
-  ```
+  
